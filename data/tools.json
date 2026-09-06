@@ -1,0 +1,44 @@
+{
+  "tools": {
+    "HSS": {
+      "nome": "HSS Standard (Aço Rápido)",
+      "fator_vc": 1.0,
+      "fator_desgaste": 1.0,
+      "temperatura_maxima": 600,
+      "durabilidade_base": 60,
+      "aplicacao": "Uso geral em aços carbono"
+    },
+    "HSS-Co": {
+      "nome": "HSS Cobalto (5-8% Co)",
+      "fator_vc": 1.15,
+      "fator_desgaste": 0.85,
+      "temperatura_maxima": 650,
+      "durabilidade_base": 90,
+      "aplicacao": "Aços ligados e inoxidáveis"
+    },
+    "Carbeto": {
+      "nome": "Carbeto de Tungstênio (WC-Co)",
+      "fator_vc": 1.5,
+      "fator_desgaste": 0.5,
+      "temperatura_maxima": 900,
+      "durabilidade_base": 180,
+      "aplicacao": "Alta produção e materiais duros"
+    },
+    "CBN": {
+      "nome": "Nitrato de Boro Cúbico",
+      "fator_vc": 2.0,
+      "fator_desgaste": 0.3,
+      "temperatura_maxima": 1200,
+      "durabilidade_base": 300,
+      "aplicacao": "Materiais endurecidos (>HRC 50)"
+    },
+    "PCD": {
+      "nome": "Diamante Policristalino",
+      "fator_vc": 2.5,
+      "fator_desgaste": 0.2,
+      "temperatura_maxima": 700,
+      "durabilidade_base": 400,
+      "aplicacao": "Materiais não-ferrosos e compósitos"
+    }
+  }
+}

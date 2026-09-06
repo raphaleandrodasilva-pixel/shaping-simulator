@@ -1,0 +1,70 @@
+{
+  "materials": {
+    "SAE_1020": {
+      "nome": "SAE 1020 (Aço baixo carbono)",
+      "dureza_brinell": 150,
+      "k_c": 1800,
+      "m_c": 0.25,
+      "k_f": 320,
+      "m_f": 0.68,
+      "densidade": 7850,
+      "condutividade_termica": 52,
+      "calor_especifico": 460
+    },
+    "SAE_1045": {
+      "nome": "SAE 1045 (Aço médio carbono)",
+      "dureza_brinell": 200,
+      "k_c": 2000,
+      "m_c": 0.26,
+      "k_f": 340,
+      "m_f": 0.68,
+      "densidade": 7850,
+      "condutividade_termica": 48,
+      "calor_especifico": 470
+    },
+    "SAE_4140": {
+      "nome": "SAE 4140 (Aço ligado)",
+      "dureza_brinell": 220,
+      "k_c": 2200,
+      "m_c": 0.28,
+      "k_f": 360,
+      "m_f": 0.7,
+      "densidade": 7850,
+      "condutividade_termica": 42,
+      "calor_especifico": 480
+    },
+    "C45": {
+      "nome": "C45 (1.0503) - Aço carbono",
+      "dureza_brinell": 190,
+      "k_c": 1680,
+      "m_c": 0.26,
+      "k_f": 340,
+      "m_f": 0.68,
+      "densidade": 7800,
+      "condutividade_termica": 45,
+      "calor_especifico": 460
+    },
+    "20MnCr5": {
+      "nome": "20MnCr5 - Aço cementado",
+      "dureza_brinell": 170,
+      "k_c": 2140,
+      "m_c": 0.25,
+      "k_f": 340,
+      "m_f": 0.68,
+      "densidade": 7850,
+      "condutividade_termica": 38,
+      "calor_especifico": 460
+    },
+    "Ferro_Fundido": {
+      "nome": "Ferro fundido cinzento",
+      "dureza_brinell": 200,
+      "k_c": 1200,
+      "m_c": 0.2,
+      "k_f": 250,
+      "m_f": 0.6,
+      "densidade": 7200,
+      "condutividade_termica": 50,
+      "calor_especifico": 450
+    }
+  }
+}
